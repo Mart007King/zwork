@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@weavy/uikit-web": "^19.1.2"
+  }
+}
